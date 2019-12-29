@@ -7,7 +7,7 @@ Download -> https://github.com/alameenboss/ABC.Northwind/archive/master.zip
 
 ## Cutting Edge Technology based on a Udemy Course
 
-![Screen](Screen\ProductList.png)
+![Screen](/Screen/ProductList.png)
 
 ## Technology Used
 
